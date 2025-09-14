@@ -4,3 +4,7 @@
   box-sizing: border-box;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.now{
+  color: red;
+  background-color: yellow;
+}
